@@ -3,7 +3,9 @@
 This repository is a toy repository for the purpose of learning git.
 
  * Markdown!
- * More markdown!
+ * ~More markdown!~
+ * **And even more!**
+ * _Triforce_
 
 > Look at the pretty block
 
