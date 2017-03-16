@@ -3,7 +3,8 @@
 This repository is a toy repository for the purpose of learning git.
 
  * Markdown!
- * More markdown!
+ * ~More markdown!~
+ * And even more!
 
 > Look at the pretty block
 
