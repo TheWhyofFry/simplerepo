@@ -4,6 +4,8 @@ This repository is a toy repository for the purpose of learning git.
 
  * Markdown!
  * More markdown!
+ * This is a new bullet
+ * _The prettiest bullet!_
 
 > Look at the pretty block
 
