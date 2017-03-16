@@ -5,7 +5,7 @@ This repository is a toy repository for the purpose of learning git.
  * Markdown!
  * ~More markdown!~
  * And even more!
- * This is a new bullet
+ * _Triforce_
  * _The prettiest bullet!_
 
 > Look at the pretty block
