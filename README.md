@@ -7,4 +7,4 @@ This repository is a toy repository for the purpose of learning git.
 
 > Look at the pretty block
 
-
+> ~Another pretty block!~
