@@ -7,6 +7,7 @@ This repository is a toy repository for the purpose of learning git.
  * And even more!
  * _Triforce_
  * _The prettiest bullet!_
+ * Johnny 5 is alive
 
 > Look at the pretty block
 
